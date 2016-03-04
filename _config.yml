@@ -1,7 +1,8 @@
-name: thequotes
+name: Quotes
 favicon: null
 layout_spectrum: 0.6161922523751855
 typography_spectrum: 0.48203724389895797
+title: The Quotes
 cta:
   domain: null
   bucket: null
